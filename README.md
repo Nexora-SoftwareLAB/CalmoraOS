@@ -54,3 +54,6 @@ See LICENSE for details.
 
 The goal of CalmoraOS is to create a lightweight,
 custom operating system from scratch.
+
+Keywords:
+osdev, x86, grub, kernel, bootloader, assembly, operating-system
