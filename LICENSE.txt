@@ -1,0 +1,24 @@
+CalmoraOS License
+
+Copyright (c) 2026 CalmoraOS
+
+All rights reserved.
+
+CalmoraOS is proprietary software.
+
+Permission is granted to download and use CalmoraOS for personal,
+educational, and testing purposes.
+
+You may not:
+- Modify the software
+- Redistribute the software
+- Reverse engineer, decompile, or attempt to extract the source code
+- Use CalmoraOS for commercial purposes without permission
+
+The source code of CalmoraOS is not publicly available.
+
+CalmoraOS is provided "as is" without any warranty.
+The developers are not responsible for any damage or data loss
+caused by the use of this software.
+
+For permissions beyond this license, please contact the CalmoraOS project owner.
